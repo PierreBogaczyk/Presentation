@@ -1,0 +1,14 @@
+
+Hello,
+
+I'm Mickael Prades, manager of the team working on Project 42 : Walkyries.
+The other members working on this project are ...
+Project 42 :Walyries is a dungeon crawler RPG developped using Eclipse IDE.
+To complete the game, the player needs to reach the end of the dungeon.
+
+We'll first explain the conception of our application,
+then we will describe the actual development of the game.
+After that we'll present the gestion and economical part of the project,
+We will end this presentation by showing you a direct demonstration of our application.
+
+I'll now let [Connard] begins with the analysis.
